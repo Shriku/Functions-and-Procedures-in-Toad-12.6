@@ -1,0 +1,2 @@
+# Functions-and-Procedures-in-Toad-12.6
+Through this course we will deal specifically with the functions and procedures in Toad 12.6. The tutorials will explain the Viewing of oracle functions and procedures in TOAD, how to Create Sequence, Indexes and different looks of schema browser, How to use different icons of schema browser. For more details:-http://www.educba.com/course/functions-and-procedures-in-toad-12-6/
